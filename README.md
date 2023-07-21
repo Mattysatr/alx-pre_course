@@ -1,2 +1,2 @@
 My first readme.Tips
-New update
+Update in git
